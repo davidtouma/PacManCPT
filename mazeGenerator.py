@@ -24,7 +24,7 @@ repeat recursively for each sub-grid
 
 pacman details:
 players 1,3 always start in the bottom left; 2,4 in the top right
-food is placed in dead ends and then randomly (though not too close to the pacmen starting positions)
+f too close to the pacmen starting positions)
 
 notes:
 the final map includes a symmetric, flipped copy
